@@ -1,0 +1,8 @@
+Help.aux
+Help.log
+Help.out
+Help.synctex.gz
+/test
+/dist
+/build
+Thumbs.db
